@@ -24,10 +24,6 @@ Netværk
 
 Wifi(mickey), Blootooth(moshen), 5G(Mathias)
 
-
-
-
-
 hvorfor det ikke virker på bluetooth og virker på wifi (alle)
 finde ud af hvad iot er og hvad det gør for fremtiden.(alle)
 
@@ -39,6 +35,11 @@ Philips Hue npm pakke
 
 Sider med ansigtsgenkendelse API'er
 	https://rapidapi.com/blog/top-facial-recognition-apis/
+	
+Internet of things.
+Fremtidsmulighederne for IOT er er du kan få internet ind i fx et køleskab eller som vi har gjort i vores opgave, en lampe. 
+Eksempler på IOT kan fx være lyskryds med scanner så den bliver grøn sekundet man er der, det kan også være selvkørende biler. Inden for vores kundskaber kan vi udvikle automatsystemer som vil kunne spare virksomehderne for manuelt arbejdskraft. Fx vil vi med javascript kunne programmere industri maskiner til at udføre en bestemt handling på et bestemt tidspunkt uden interaktionen af mennesket. 
+
 
 
 
