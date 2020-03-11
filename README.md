@@ -20,7 +20,9 @@ skal kunne hente data, lysstyrke som lampen lyser med og føre over til hjemmesi
 skal kunne hente data, om den er tændt eller slukket og føre over til hjemmesiden. (Moshen)
 
 
+Netværk
 
+Wifi(mickey), Blootooth(moshen), 5G(Mathias)
 
 
 
